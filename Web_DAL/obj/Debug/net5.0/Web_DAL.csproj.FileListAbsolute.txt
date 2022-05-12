@@ -1,0 +1,15 @@
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\Web_DAL.deps.json
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\Web_DAL.dll
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\ref\Web_DAL.dll
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\Web_DAL.pdb
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\Web_Entity.dll
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\bin\Debug\net5.0\Web_Entity.pdb
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.csproj.AssemblyReference.cache
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.AssemblyInfoInputs.cache
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.AssemblyInfo.cs
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.csproj.CoreCompileInputs.cache
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.csproj.CopyComplete
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.dll
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\ref\Web_DAL.dll
+F:\Do_Project\ASP_NET_MVC\ASP_NET_MVC\Web_DAL\obj\Debug\net5.0\Web_DAL.pdb
