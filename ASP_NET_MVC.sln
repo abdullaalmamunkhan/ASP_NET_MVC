@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCore", "WebCore\WebCore.csproj", "{EC78A194-3E92-4199-AA51-B5B7FB973935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCore", "WebCore\WebCore.csproj", "{EC78A194-3E92-4199-AA51-B5B7FB973935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_BLL", "Web_BLL\Web_BLL.csproj", "{A13C2589-B4F1-4F8D-9E4D-39A3580308F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_BLL", "Web_BLL\Web_BLL.csproj", "{A13C2589-B4F1-4F8D-9E4D-39A3580308F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_DAL", "Web_DAL\Web_DAL.csproj", "{AB006EB2-F40C-45F1-8F37-7348AB090AD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_DAL", "Web_DAL\Web_DAL.csproj", "{AB006EB2-F40C-45F1-8F37-7348AB090AD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Entity", "Web_Entity\Web_Entity.csproj", "{38CC3399-86F9-408B-A6F3-646AA50249EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Entity", "Web_Entity\Web_Entity.csproj", "{38CC3399-86F9-408B-A6F3-646AA50249EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Web_DAL\Web_DAL.csproj" />
-    <ProjectReference Include="..\Web_Entity\Web_Entity.csproj" />
   </ItemGroup>
 
 </Project>
