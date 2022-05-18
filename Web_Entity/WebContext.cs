@@ -23,6 +23,11 @@ namespace Web_Entity
 
         public WebContext(DbContextOptions<WebContext> options):base(options) { }
         public DbSet<MUser> MUsers { get; set; }
+        public DbSet<Customers> Customers { get; set; }
+        public DbSet<Products> Products { get; set; }
+        public DbSet<Inventories> Inventories { get; set; }
+        public DbSet<InventoryProducts> InventoryProducts { get; set; }
+
 
     }
 }

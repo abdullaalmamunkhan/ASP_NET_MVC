@@ -34,7 +34,7 @@ namespace WebCore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<WebContext>(options => options.UseSqlServer(
-                      Configuration.GetConnectionString("DefaultConnection")
+                      Configuration.GetConnectionString("WebContext")
                    ));
 
             services.AddControllersWithViews();
